@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881263223078",
+    "project_id": "wasat-5e536",
+    "storage_bucket": "wasat-5e536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881263223078:android:79b39c4b4b540febb721e7",
+        "android_client_info": {
+          "package_name": "com.example.wasat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDA_GTIlVk1Vz_cXVWC-C6FDw6VlGsOco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
